@@ -1,0 +1,21 @@
+Exercícios:
+1. faça um programa qure pegue duas variáveis dados pelo usuário e as some, print o calculo completo "x+y=z"
+
+2. Adicione uma repetição para que o usuário escolha só se ele quer continuar ou se ele quer sair
+
+3. faça um programa que chame funções de :
+-soma
+-subtração
+-multiplicação
+-divisão
+-potência
+-raiz obs: tente fazer passagem de parenteses nos (x**(1/2))
+
+4: fazer um mini quiz que use como base uma tupla com as respostas corretas. Guarda cada acerto do User dentro de um diciopnário como no exemplo abaixo
+"Quiz['User']= {
+'pergunta 1': 'Acerto, 
+'pergunta 2': 'Errou' 
+[..] } "
+
+no final dê para o user a quantidade de acertos (printe o dicionário)
+

@@ -1,11 +1,6 @@
 """
 password mananger
 master password -> all passwords
-
-
-Banco: zçlvcxm54
-Google Account: lax~69çA
-Portal_UFSM: z9xi3
 """
 
 import linecache
